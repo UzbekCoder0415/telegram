@@ -35,7 +35,7 @@ const button = Markup.keyboard([
 const adminButton = Markup.keyboard([
   ["Test javoblarini bazaga kiritish"],
   ["Admin 📞", "Bot haqida 📄"],
-  ["Admin bo'limi 👨🏻‍💻"]
+  ["Admin bo'limi 👨🏻‍💻","Botdagi obunachilar"]
 ]).resize();
 
 let arr = [];
